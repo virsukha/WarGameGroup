@@ -14,7 +14,7 @@ public class JavaApplication24 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code a
+        // TODO codes
     }
     
 }
